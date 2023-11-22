@@ -1,0 +1,287 @@
+﻿++++++++++++
+WorldWide Privacy Laws acceptance and permission:
+++++++++++++
+Due to some countries’ laws restrictions about privacy, I hereby grant you the right to use my personal data strictly for work proposals.
+When in doubt feel free to contact me using the details specified below.
+
+
+++++++++++++
+ITALIAN Privacy Laws acceptance and permission:
+++++++++++++
+Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base art. 13 del D. Lgs. 196/2003 e successive leggi relative al GPDR/2016.
+
+
+++++++++++++
+Message for headhunters and job agencies:
+++++++++++++
+I am ONLY open to talk about remote jobs opportunities.
+I am not interested in relocation but I'm glad to occasionally travel 
+to present at conferences, attend company meetings and so on.
+
+
+************
+Personal contact details:
+************
+First name          : Emanuele
+Last name           : Calo'
+
+
+Real life nickname  : Lele
+Internet  nickname  : eldios
+
+
+Currently live in   : Lucca, Italy
+
+
+Personal mail       : emanuele.lele.calo@gmail.com
+
+
+Personal Linkedin   : https://www.linkedin.com/in/emanuelecalo/
+Personal Github     : https://github.com/eldios
+
+
+Personal Twitter    : https://twitter.com/!#/eldios
+Personal Blog       : https://lelecalo.tumblr.com
+
+
+This document (TXT) : https://lele.rip/Lele_CV.txt
+This document (PDF) : https://lele.rip/Lele_CV.pdf
+My face             : https://lele.rip/Lele_pic.jpg
+
+
+
+
+************
+Biography:
+************
+
+
+* I'm 40 years old (19831204 _ YYYYMMDD)
+* Married, 2 sons  (17 and 11 yrs old) .. and (at least) 4 cats :3
+
+
+************
+Actual & recent past work positions:
+************
+
+
+* Mar 2023  - [ Present ]
+    Employer  : Tint
+    Main role : Lead SRE
+    Website   : https://tint.ai
+
+
+* Mar 2022  - Nov 2022
+    Employer  : Kraken Digital Asset Exchange
+    Main role : Senior DevOPS & SRE
+    Website   : https://kraken.com
+
+
+* Jan 2021  - Mar 2022
+    Employer  : Ada - remote - Toronto, ON (CA)
+    Main role : Senior DevOPS, SRE, Kubernetes wizard
+    Website   : https://ada.cx
+
+
+* July 2017 - December 2020
+    Employer  : Teleport ( was Gravitational Inc. )
+    Main role : DevOPS, SRE, Kubernetes wizard
+    Website   : https://goteleport.com/
+
+
+* August 2012 - June 2017
+    Employer  : End Point Inc.
+    Main role : Hosting team leader, SysAdmin/DevOps and Network Specialist
+    Website   : https://endpoint.com/
+
+
+# side gig to host personal and friends' stuff
+* April 2012 - [Present]
+    Employer  : IT Consultant - Founder of sshAdm.in
+    Main role : IT infrastructure remote setup/management consultant
+    Website   : https://sshadm.in
+
+
+[ previous positions redacted for brevity, check LinkedIn ]
+************
+Tech stuff:
+************
+[overall]
+* ~8  yrs+ DEVOPS/SRE      [1]
+* ~6  yrs+ TECH LEAD       [1]
+* ~15 yrs+ SENIOR SYSADMIN [1]
+* ~20 yrs+ TECH EVANGELIST [1]
+
+
+* CKA (Certified Kubernetes Administrator) - https://sshadm.in/cka_2018.png
+
+
+[sysadmin/devops]
+* Proficient with Kubernetes, Helm, Kops, Docker and learning a few others interesting Cloud and container related techs like rkt, Swarm and more
+
+
+* Proficient with the Hashi stack (Consul, Vault, Nomad, Terraform, Packer)
+
+
+* Proficient with automation DevOps common tools (Puppet, Ansible, Chef)
+
+
+* Constantly growing and improving experience with "CLOUD" environments
+  like RackSpace, Amazon AWS (EC2 and more), Linode, Digital Ocean, GCE/GKE, Proxmox (on premise) and more
+
+
+* Comprehensive and extensive expertise in common IT administration fields [2]
+
+
+* I’m the maintainer of a few AUR packages for the User maintained Arch Linux package system. You can find an updated list here:
+  https://aur.archlinux.org/packages/?K=eldios&SeB=m
+
+
+[networking]
+* proficient with networking subjects and projects, even with complex and
+  advanced infrastructures
+
+
+[development]
+* intermediate proficiency in various programming languages [3]
+
+
+[various]
+* definitely an "early-user" and new technologies addicted [4]
+________________
+
+
+************
+Facts about me:
+************
+* I’m a Scout (as in Boy/Girl Scout) and serve as a volunteer in the Italian Scouting non-religious Association called CNGEI. I’m a Scout Troop Leader in my local group.
+* I'm a fast learner
+* I'm a problem solver [5]
+* I'm an hacker        [6]
+* I can proudly say I have an "hackish" mind which pulls me to dig in various life fields (tech-related or not)
+* During my life I "studied/played with" the following subjects, divided by macro areas:
+  + alternative/responsible/better parenting, cat-related stuff
+  + paper-RPG games, RPG games, roguelike games.. many other kind of games :)
+  + crypto enthusiast, mostly Bitcoin, Monero and Ethereum
+  + Arduino, Raspberry, ESP8266, other Linux embedded devices & DIY electronics, mechanical keyboards, 3D printing, VR headsets
+  + startups, YC/HN related topics
+  + martial arts, motorbikes
+  + other very interesting things I probably forgot...
+* Travels abroad would be appreciated if not too frequent (~ every two months)
+
+
+************
+Internal doc References:
+************
+[1]
+  Competent with almost every Linux distro but mainly:
+    * Arch Linux (my current distro #1)
+    * Nix/NixPkgs/NixOS (my current distro #2)
+    * any Ubuntu/Debian based
+    * Centos/Fedora based (RHEL and CloudLinux included)
+    * (a bit rusty) Gentoo (my first real "love" distro)
+
+
+  My actual distro is nixOS.
+  I’m also using Nix/NixPkgs everywhere with Ubuntu and Arch wherever it is possible and makes sense considering the use case.
+  I'm also quite confident with Microsoft products (I already met ActiveDirectory more than once) and Apple products as I always worked in cross-platform environments (Linux on the servers and proprietary software on desktops).
+  I also played with most other *nix based systems (BSD, SmartOS) and a lot of different weird linux distro (Arch, Gentoo, sorceror/archmage, pentoo, ecc)
+
+
+[2]
+  I worked in almost every sysadmin fields, working to setup and maintain 
+  services for:
+      * Cloud providers: AWS, GCE, Azure, DigitalOcean, Hetzner, and many more
+      * Virtualization: Xen, QEMU/KVM, AWS EC2, VMWare, VirtualBox
+      * Containers: Docker, rkt, CoreOS
+      * Containers Orchestration: Kubernetes, Rancher
+      * system monitoring (Nagios/Icinga, CheckMK, ZenOSS, AWS CloudWatch)
+      * SQL database services (MySQL and PgSQL)
+      * NoSQL database services (CouchDB/bigCouch, redis, mongo)
+      * HTTP (Apache, nginx, LiteSpeed, lighttpd)
+      * DNS (Bind, Microsoft AD, dnsmasq)
+      * mail (postfix, courier, qmail, dovecot, exim, sendmail)
+      * backup (Amanda, CrashPlan, custom solutions, backuppc, borg)
+      * code deployment (git, svn, cvs)
+      * VPN networking (openvpn, tinc, PPTP, IPSec)
+      * various others (nodejs, rails, rvm, full system encryption, clusters)
+      * IPv6 solutions management and configuration (native and 6to4)
+      * SELinux setup, management and configuration 
+
+
+[3]
+  Ordered by skill, and grouped by grade (can find legend at [3.b]):
+    (8/10)
+      * Kubernetes (KOPS, kubeadm, gravity, rancher, r3k, etc..)
+      * Terraform
+      * ShellScripting
+    (7/10)
+      * AWS
+      * Ansible
+      * Go (learning)
+      * Python
+      * Ruby
+      * Perl
+      * NodeJS/Javascript ( also modules like jade, stylus, less, express, Meteor )
+      * Nomad
+      * Consul
+      * Vault
+      * Packer
+      * Solidity ( EVM ) on Ethereum
+    
+________________
+(6/10)
+      * PHP
+      * SQL (mostly MySQL and PgSQL)
+    (5/10)
+      * NoSQL* (redis,couchDB and MongoDB)
+      * C# (through Unity, for game development as a hobby)
+    (4/10)
+      * Java (also Android development)
+    (3/10)
+      * C/C++
+
+
+[3.b]
+  *Rating scale 0-10*
+  0   - Indicates you have NO EXPERIENCE.
+  1-3 - Indicates you can read and understand the subject area,
+        but would not be comfortable implementing most things in it.
+  4-6 - Indicates you are "comfortable" to "very comfortable" with 
+        the subject area and all normal / routine work in it.
+  7   - Indicates that you are extremely proficient and have deep
+        technical expertise in the subject.
+        You would be comfortable with personally designing and
+        implementing any project in that area.
+        This is basically saying that you are very good, could work with
+        the technology in any project scope, but you are not an expert 
+        and there are still things you'd like to learn in the field.
+  8   - Indicates that you are an expert in the field and would likely 
+        be the 'go-to' for all things related in any type of environment.
+        This is where you are an expert.
+        You are confident that you would be in the top percentile of 
+        ability in both small and large environments.
+  9   - Indicates that you are an expert and have written a book 
+        on the subject or have a patent in the field.
+        This is saying that you are an '8' but have written a book 
+        (not paper) OR have a patent in the field.
+  10  - Reserved for recognized industry experts in a field (e.g. James
+        Gosling, Guido Van Rossum, Douglas Crockford, etc)
+
+
+[4]
+  Early Android user (1.6 on), early Nodejs user (0.3.x on), 
+  early Minecraft tester (bought in alpha for 9.99 USD, good times)..
+  early "almost-everything-which-THEN-have-huge-hype" user
+
+
+________________
+
+
+[5]
+  As defined here http://solversmanifesto.com
+
+
+[6]
+  As defined here
+    http://en.wikipedia.org/wiki/Hacker_%28programmer_subculture%29
