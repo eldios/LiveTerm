@@ -113,7 +113,7 @@ Tech stuff:
 * ~20 yrs+ TECH EVANGELIST [1]
 
 
-* CKA (Certified Kubernetes Administrator) - https://sshadm.in/cka_2018.png
+* CKA (Certified Kubernetes Administrator) - https://lele.rip/cka_2018.png
 
 
 [sysadmin/devops]
