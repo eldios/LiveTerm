@@ -46,7 +46,9 @@ export const cv = resume; // alias for resume
 // Donate
 export const donate = async (args: string[]): Promise<string> => {
   return `thank you for your interest. Here are the ways you can support my work:
-- <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.donate_urls.paypal}" target="_blank">paypal</a></u>
+- <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.donate_urls.paypal}" target="_blank">PayPal</a></u>
+- <u><a class="text-light-orange dark:text-dark-orange underline" href="${config.donate_urls.bitcoin}" target="_blank">Bitcoin</a></u>
+- <u><a class="text-light-violet dark:text-dark-violet underline" href="${config.donate_urls.solana}" target="_blank">Solana</a></u>
 `;
 };
 
