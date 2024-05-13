@@ -25,7 +25,7 @@ Type 'sumfetch' to display summary.
 // Redirection
 export const repo = async (args: string[]): Promise<string> => {
   window.open(`${config.repo}`);
-  return 'Opening Github repository...';
+  return 'Opening Github repository for this website...';
 };
 // About
 export const about = async (args: string[]): Promise<string> => {
@@ -33,19 +33,19 @@ export const about = async (args: string[]): Promise<string> => {
 Welcome to my website!
 More about me:
 'sumfetch' - short summary.
-'resume' - my latest resume.
-'readme' - my github readme.`;
+'cv' or 'resume' - my latest resume.
+'readme' - my personal github readme.`;
 };
 
 export const resume = async (args: string[]): Promise<string> => {
   window.open(`${config.resume_url}`);
   return 'Opening resume...';
 };
+export const cv = resume; // alias for resume
 
 // Donate
 export const donate = async (args: string[]): Promise<string> => {
-  return `thank you for your interest. 
-here are the ways you can support my work:
+  return `thank you for your interest. Here are the ways you can support my work:
 - <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.donate_urls.paypal}" target="_blank">paypal</a></u>
 `;
 };
@@ -59,13 +59,13 @@ export const email = async (args: string[]): Promise<string> => {
 export const github = async (args: string[]): Promise<string> => {
   window.open(`https://github.com/${config.social.github}/`);
 
-  return 'Opening github...';
+  return 'Opening GitHub...';
 };
 
 export const linkedin = async (args: string[]): Promise<string> => {
   window.open(`https://www.linkedin.com/in/${config.social.linkedin}/`);
 
-  return 'Opening linkedin...';
+  return 'Opening Linkedin...';
 };
 
 // Typical linux commands
@@ -107,7 +107,7 @@ export const nvim = async (args: string[]): Promise<string> => {
 };
 
 export const emacs = async (args?: string[]): Promise<string> => {
-  return `you know what? just use vscode.`;
+  return `you know what? just use vi.`;
 };
 
 export const sudo = async (args?: string[]): Promise<string> => {
