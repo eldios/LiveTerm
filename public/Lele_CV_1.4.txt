@@ -1,0 +1,254 @@
+************
+CV Version: 1.4
+************
+
+Graphical CV (PDF)  : https://lele.rip/Lele_CV_Otta.pdf
+
+This document (TXT) : https://lele.rip/Lele_CV.txt
+This document (PDF) : https://lele.rip/Lele_CV.pdf
+
+************
+Personal contact details:
+************
+
+First name          : Emanuele
+Last name           : Calo'
+
+Real life nickname  : Lele
+Internet  nickname  : eldios
+
+Currently live in   : Lucca, Italy
+
+Personal mail       : emanuele.lele.calo@gmail.com
+
+Personal Linkedin   : https://www.linkedin.com/in/emanuelecalo/
+Personal Github     : https://github.com/eldios
+
+Personal Site       : https://lele.rip
+
+My face             : https://lele.rip/Lele_pic.jpg
+
+************
+Biography:
+************
+
+* I'm 40 years old (19831204 _ YYYYMMDD)
+* Married, 2 sons  (18 and 12 yrs old) .. and (at least) 3 cats :3
+
+************
+Actual & recent past work positions:
+************
+
+* Mar 2023  - Jan 2024
+    Employer    : Switchboard [https://switchboard.xyz]
+    Role title  : DevOps/SRE, Kubernetes wizard and Solana Cultist
+    Role impact :
+      - Help development and deployment of Rust Solana programs for our Oracle
+      - Member of a small, dedicated and passionate Infra team, directly cooperating with CTO and external customers
+      - Mentor junior and mid-level engineers on DevOps/SRE/infra best practices
+      - Senior DevOps individual contributor with expertise in Kubernetes, AWS, Terraform, Linux, and Typescript
+      - Act as the Staff Engineer, liaising with other teams and stakeholders to address infrastructure needs and plan for the future
+
+* Mar 2023  - Jan 2024
+    Employer    : Tint [https://tint.ai]
+    Role title  : Lead SRE
+    Role impact :
+      - Main decision-maker for our cloud infrastructure
+      - Mentor junior and mid-level engineers on best practices
+      - Senior DevOps individual contributor with expertise in Kubernetes, AWS, Terraform, Linux, and Typescript
+      - Act as the Staff Engineer, liaising with other teams and stakeholders to address infrastructure needs and plan for the future
+
+* Mar 2022  - Nov 2022
+    Employer    : Kraken Crypto Exchange [https://kraken.com]
+    Role title  : Senior DevOPS & SRE
+    Role impact :
+      - Being a member of the CORE team
+      - Developing services for various teams such as trading, staking, etc.
+      - Serving as an internal team of experts to ensure best practices and security measures are implemented in the work of other teams
+
+* Jan 2021  - Mar 2022
+    Employer    : Ada [https://ada.cx]
+    Role title  : Senior DevOPS, SRE, Kubernetes wizard
+    Role impact :
+      - Participated in the on-call rotation for infrastructure as a Site Reliability Engineer (SRE).
+      - Mentored junior and mid-level engineers on best practices.
+      - Served as a senior DevOps individual contributor with expertise in Kubernetes, AWS, Terraform, Linux, and MongoDB.
+      - Acted as the Staff Engineer, engaging with other teams and stakeholders to address infrastructure needs and plan for the future.
+
+* July 2017 - December 2020
+    Employer    : Teleport [https://goteleport.com]
+    Role title  : DevOPS, SRE, Kubernetes wizard
+    Role impact :
+      - Participated in the on-call rotation for infrastructure as a Site Reliability Engineer (SRE).
+      - Mentored junior and mid-level engineers on best practices.
+      - Served as a senior DevOps individual contributor with expertise in Kubernetes, AWS, Terraform, Linux, and MongoDB.
+      - Acted as the Staff Engineer, engaging with other teams and stakeholders to address infrastructure needs and plan for the future.
+
+* August 2012 - June 2017
+    Employer   : End Point Inc. [https://endpoint.com/]
+    Role title : Hosting team leader, SysAdmin/DevOps
+    Role impact :
+      - Participated in the on-call rotation as an SRE for infrastructure.
+      - Served as a technical team leader for a team of approximately 10 individuals.
+      - Implemented automation for Linux systems used in web hosting.
+
+* April 2012 - [Present]
+    Employer    : IT Consultant & Web hosting [https://sshadm.in]
+    Role title  : Founder
+    Role impact :
+      - Side-gig I keep around all the time to host my own and a few friends/relatives websites on some dedi servers
+      - This is mostly using Ubuntu/Plesk/Hetzner/Cloudflare/borgbackup/Docker as I think that's the best combo around (right now) for self-hosting with close to zero maintenance
+      - This is also a good sandbox/testing/learning environment for myself as I experiment with new technologies (on dedicated VMs)
+
+[ previous positions redacted for brevity, check LinkedIn ]
+
+************
+Tech stuff:
+************
+
+[overall]
+  * ~8  yrs+ DEVOPS/SRE      [1]
+  * ~10 yrs+ TECH LEAD       [1]
+  * ~20 yrs+ SENIOR SYSADMIN [1]
+  * ~20 yrs+ TECH EVANGELIST [1]
+
+  * CKA (Certified Kubernetes Administrator) - https://lele.rip/cka_2018.png
+
+[sysadmin/devops]
+  * Proficient with Kubernetes, Helm, Kops, Docker and learning a few others interesting Cloud and container related techs like rkt, Swarm and more
+
+  * Proficient with the Hashi stack (Consul, Vault, Nomad, Terraform, Packer)
+
+  * Proficient with automation DevOps common tools (Terraform, Puppet, Ansible, Chef)
+
+  * Constantly growing and improving experience with "CLOUD" environments like RackSpace, Amazon AWS (EC2 and more), Linode, Digital Ocean, GCE/GKE, Proxmox (on premise) and more
+
+  * Comprehensive and extensive expertise in common IT administration fields [2]
+
+  * I’m the maintainer of a few AUR packages for the User maintained Arch Linux package system. You can find an updated list here: https://aur.archlinux.org/packages/?K=eldios&SeB=m
+
+[networking]
+  * proficient with networking subjects and projects, even with complex and advanced infrastructures
+
+[development]
+    * intermediate proficiency in various programming languages [3]
+
+[various]
+  * definitely an "early-user" and new technologies "pioneer" [4]
+
+************
+Facts about me:
+************
+
+* I LOVE presenting at conferences, so I'be happy to present technical topics online (YouTube/Twitch) or at conference live
+* Travels abroad would be appreciated if not too frequent (~ every two months)
+
+* I’m a Scout (as in Boy/Girl Scout) and serve as a volunteer in the Italian Scouting non-religious Association called CNGEI. I’m a Scout Troop Leader in my local group.
+* I'm a fast learner
+* I'm a problem solver [5]
+* I'm an hacker        [6]
+* I can proudly say I have an "hackish" mind which pulls me to dig in various life fields (tech-related or not)
+* During my life I "studied/played with" the following subjects, divided by macro areas:
+  + crypto enthusiast: mostly Bitcoin, Solana, Monero and Ethereum
+  + Arduino, Raspberry, ESP8266, other Linux embedded devices & DIY electronics, mechanical keyboards, 3D printing, VR headsets
+  + paper-RPG games, RPG games, roguelike games.. many other kind of games :)
+  + startups, YC/HN related topics
+  + martial arts, motorbikes
+  + other very interesting things I probably forgot...
+
+************
+Internal doc References:
+************
+
+[1] Competent with almost every Linux distro but mainly:
+  * Nix/NixPkgs/NixOS (my current distro #1)
+  * Arch Linux (my current distro #2)
+  * any Ubuntu/Debian based
+  * Centos/Fedora based (RHEL and CloudLinux included)
+  * (a bit rusty) Gentoo (my first real "love" distro)
+
+  My actual distro is nixOS.
+  Been using Nix/NixPkgs everywhere with Ubuntu and Arch wherever it is possible and makes sense considering the use case.
+
+  Also quite confident with Microsoft products (I already met ActiveDirectory more than once) and Apple products as I always worked in cross-platform environments (Linux on the servers and proprietary software on desktops).
+
+  As experimentation also played with most other \*nix based systems (BSD, SmartOS) and a lot of different weird linux distro (Arch, Gentoo, sorceror/archmage, pentoo, ecc)
+
+[2] I worked in almost every sysadmin fields, working to setup and maintain services for:
+  * Cloud providers: AWS, GCE, Azure, DigitalOcean, Hetzner, and many more
+  * Virtualization: Xen, QEMU/KVM, AWS EC2, VMWare, VirtualBox
+  * Containers: Docker, rkt, CoreOS
+  * Containers Orchestration: Kubernetes, Rancher
+  * system monitoring (Nagios/Icinga, CheckMK, ZenOSS, AWS CloudWatch)
+  * SQL database services (MySQL and PgSQL)
+  * NoSQL database services (CouchDB/bigCouch, redis, mongo)
+  * HTTP (Apache, nginx, LiteSpeed, lighttpd)
+  * DNS (Bind, Microsoft AD, dnsmasq)
+  * mail (postfix, courier, qmail, dovecot, exim, sendmail)
+  * backup (Amanda, CrashPlan, custom solutions, backuppc, borg)
+  * code deployment (git, svn, cvs)
+  * VPN networking (openvpn, tinc, PPTP, IPSec)
+  * various others (nodejs, rails, rvm, full system encryption, clusters)
+  * IPv6 solutions management and configuration (native and 6to4)
+  * SELinux setup, management and configuration 
+
+[3.a] Ordered by skill, and grouped by grade (legend at [3.b]):
+8/10)
+  * AWS
+  * Kubernetes (KOPS, kubeadm, rancher, r3k, etc..)
+  * Linux
+  * ShellScripting
+  * Terraform
+7/10)
+  * Ansible
+  * Consul
+  * Go
+  * GCP/GKE
+  * NodeJS/Javascript ( also modules like jade, stylus, less, express, Meteor )
+  * Nomad
+  * Packer
+  * Perl
+  * Python
+  * Ruby
+  * Rust
+  * Vault
+6/10)
+  * Azure/AKS
+  * PHP
+  * SQL (mostly MySQL and PgSQL)
+  * Solidity ( EVM ) on Ethereum
+5/10)
+  * C# (through Unity, for game development as a hobby)
+  * NoSQL* (redis,couchDB and MongoDB)
+4/10)
+  * Java (also Android development)
+3/10)
+  * C/C++
+
+[3.b] Rating scale 0-10 explanation:
+  0 -
+    Absolutely NO EXPERIENCE
+  1-3 -
+    Can read and understand the subject area, but would not be comfortable implementing most things.
+  4-6 -
+    "comfortable" to "very comfortable" with the subject area and all normal / routine work.
+  7 -
+    extremely proficient and have deep technical expertise in the subject. Comfortable with personally designing and implementing any project in that area.
+  8 -
+    Expert in the field and would likely be the 'go-to' person for all things related in any type of environment.
+  9 -
+    Expert and have written a book on the subject or have a patent in the field.
+  10 -
+    Reserved for recognised industry experts in a field (e.g. James Gosling, Guido Van Rossum, Douglas Crockford, etc..)
+
+[4] Early adopter in many fields:
+  * early Android user (1.6 on)
+  * early NodeJS user (0.3.x on)
+  * early Minecraft tester (bought in alpha for 9.99 USD, good times)
+  * early "almost-everything-which-THEN-have-huge-hype" user :)
+
+[5] As defined here http://solversmanifesto.com
+
+[6] As defined here http://en.wikipedia.org/wiki/Hacker_%28programmer_subculture%29
+
+# vim: set nu=2 ts=2 list nu

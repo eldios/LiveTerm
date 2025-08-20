@@ -1,0 +1,319 @@
+
+================================================================================
+                           EMANUELE "LELE" CALO'
+            DevOps/SRE/Infra Leader | Blockchain Infrastructure Expert
+================================================================================
+
+CV Version: 1.6
+
+
+-------------------------------------------------------------------------------
+CONTACT & LINKS
+-------------------------------------------------------------------------------
+
+Name                : Emanuele Calo'
+Nickname            : Lele (IRL) | eldios (online)
+Location            : Lucca, Italy
+Email               : emanuele.lele.calo@gmail.com
+
+
+LinkedIn            : https://www.linkedin.com/in/emanuelecalo/
+GitHub              : https://github.com/eldios
+Personal Site       : https://lele.rip
+
+
+-------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+-------------------------------------------------------------------------------
+
+20+ years building and scaling infrastructure | 10+ years DevOps/SRE leadership
+Certified Kubernetes Administrator | Blockchain infrastructure specialist
+Crypto enthusiast, founder and builder | Multiple startups founding member
+Tech evangelist passionate about mentoring and knowledge sharing
+Hacker mindset [6] | Problem solver [5] | Fast learner
+
+
+-------------------------------------------------------------------------------
+KEY ACHIEVEMENTS & NERD CREDs
+-------------------------------------------------------------------------------
+
++ Built infrastructure handling millions of blockchain transactions daily
++ Mentored 50+ engineers in DevOps best practices
++ Conference speaker on infrastructure and crypto/blockchain topics
+
+
+-------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+-------------------------------------------------------------------------------
+
++ HEAD OF INFRASTRUCTURE | Linera                            Jul 2025 - Present
+  https://linera.io | New L1 Blockchain
+
+  - Leading infrastructure architecture for groundbreaking L1 blockchain
+  - Designing validator/node infrastructure for distributed consensus network
+  - Mentoring Rust developers on infrastructure best practices
+  - Implementing Kubernetes, AWS, OpenTofu, ArgoCD infrastructure at scale
+  - Acting as Staff Engineer bridging technical teams and stakeholders
+
++ HEAD OF INFRASTRUCTURE | Switchboard                       Mar 2024 - Jul 2025
+  https://switchboard.xyz | Oracle Network on Solana
+
+  - Led DevOps practices adoption across engineering teams
+  - Architected high-availability oracle network infrastructure based on
+    AMD SEV SNP and Intel SGX (Confidential Computing) technologies
+  - Managed AWS, Kubernetes, Terraform blockchain Oracle distributed infra
+  - Developed Rust and TypeScript solutions for Solana blockchain infrastructure
+
++ LEAD SRE | Tint                                            Mar 2023 - Jan 2024
+  https://tint.ai | AI Platform
+
+  - Owned cloud infrastructure decision-making and architecture
+  - Built scalable Kubernetes infrastructure supporting AI workloads
+  - Established SRE best practices and mentorship programs
+  - Designed disaster recovery and high-availability solutions
+
++ SENIOR DEVOPS & SRE | Kraken                               Mar 2022 - Nov 2022
+  https://kraken.com | Crypto Exchange
+
+  - CORE team member ensuring exchange reliability and security
+  - Developed critical services for trading and staking systems
+  - Implemented security best practices across multiple teams
+  - Managed infrastructure handling billions in daily trading volume
+
++ SENIOR DEVOPS | Ada                                        Jan 2021 - Mar 2022
+  https://ada.cx | Customer Service AI
+
+  - Participated in 24/7 on-call rotation maintaining 99.9% uptime
+  - Architected MongoDB clusters and AWS infrastructure
+  - Mentored engineering team on Kubernetes and Terraform
+  - Led infrastructure planning as Staff Engineer
+
++ DEVOPS & SRE | Teleport                                    Jul 2017 - Dec 2020
+  https://goteleport.com | Security Infrastructure
+
+  - Built secure access infrastructure for Fortune 500 companies
+  - Developed Kubernetes-native security solutions
+  - Implemented zero-trust network architectures
+  - Contributed to open-source security tools
+
++ HOSTING TEAM LEADER | End Point Inc.                       Aug 2012 - Jun 2017
+  https://endpoint.com | E-commerce Solutions
+
+  - Led team of 10 engineers managing enterprise hosting infrastructure
+  - Automated Linux systems for large-scale web hosting
+  - Implemented monitoring and alerting for 100+ client systems
+
++ FOUNDER | IT Consultant & Web Hosting                      Apr 2012 - Present
+  https://sshadm.in | Side Project
+
+  - Managing infrastructure for personal projects and select clients
+  - Stack: nixOS/Ubuntu/Enhance/Hetzner/Cloudflare/borgbackup/Docker
+  - Personal side-gigs, testing, studying and experimentation venues
+  - Experimental sandbox for emerging technologies
+
+[ previous positions redacted for brevity, check LinkedIn ]
+
+
+-------------------------------------------------------------------------------
+TECHNICAL EXPERTISE [with nerd scale 0-10] [3.b]
+-------------------------------------------------------------------------------
+
++ CERTIFICATIONS
+  - CKA - Certified Kubernetes Administrator (https://lele.rip/cka_2018.png)
+
++ LINUX & SYSTEMS [8/10] [1]
+  - NixOS/NixPkgs (primary distro, everywhere it makes sense)
+  - Arch Linux (secondary distro, AUR maintainer)
+  - Ubuntu/Debian (production standard)
+  - RHEL/CentOS/CloudLinux/Fedora
+  - Gentoo (first love distro, a bit rusty)
+  - BSD, SmartOS, CoreOS (experimentation)
+  - SELinux setup, management and configuration
+  - Full system encryption, IPv6 native and 6to4
+
++ CONTAINER & ORCHESTRATION [8/10]
+  - Kubernetes (k3s, k8s, KOPS, kubeadm, rancher, rke)
+  - Docker, rkt, Swarm, Container Security
+  - Helm, Kustomize, Operators
+  - Service Mesh (Istio, Linkerd)
+
++ INFRASTRUCTURE AS CODE [8/10]
+  - OpenTofu/Terraform (migrating from HashiCorp)
+  - ArgoCD, Flux, Crossplane
+  - Ansible, Puppet, Chef
+  - Packer, cloud-init
+
++ CLOUD PLATFORMS [8/10]
+  - AWS (EC2, EKS, S3, Lambda, CloudFormation, Route53, RDS, etc.)
+  - GCP (GKE, Cloud Run, BigQuery, Pub/Sub)
+  - Azure, Digital Ocean, Linode, OVH, Proxmox
+  - Bare Metal: OVH, Hetzner, Latitude, Teraswitch
+
++ HASHICORP STACK [7/10] (migrating to CNCF alternatives)
+  - Consul (Service Discovery)
+  - Vault (Secrets Management) -> OpenBao
+  - Nomad (Orchestration)
+  - Terraform -> OpenTofu
+  - Packer (Image Building)
+
++ PROGRAMMING LANGUAGES [3.a]
+  8/10: ShellScripting (bash, zsh, fish)
+  7/10: Go, Rust, Python, Ruby, Perl, NodeJS/JavaScript, TypeScript
+  6/10: Solidity (EVM), PHP, SQL (MySQL, PostgreSQL)
+  5/10: NoSQL (Redis, CouchDB/BigCouch, MongoDB)
+  4/10: Java (including Android development), C# (Unity game dev hobby)
+  3/10: C/C++
+
++ BLOCKCHAIN & CRYPTO
+  - Solana: Rust development, validator operations, on-chain programs
+  - Ethereum: Smart contracts, node operations, DeFi protocols
+  - Bitcoin/Monero: Infrastructure, security, privacy tech
+  - General: MEV, cross-chain bridges, oracles
+
++ DATABASES [2]
+  - SQL: MySQL, PostgreSQL (clustering, replication, tuning)
+  - NoSQL: MongoDB (sharding), Redis (sentinel, cluster), CouchDB/BigCouch
+  - Time-series: Prometheus, InfluxDB, TimescaleDB
+  - Graph: Neo4j, ArangoDB
+
++ MONITORING & OBSERVABILITY
+  - Prometheus/Grafana/Alertmanager stack
+  - ELK/EFK/OpenSearch
+  - Nagios/Icinga, CheckMK, Zabbix
+  - Datadog, New Relic, AWS CloudWatch
+  - Custom metrics, SLI/SLO/SLA implementation
+
++ NETWORKING & SECURITY
+  - VPN: OpenVPN, WireGuard, Tinc, PPTP, IPSec
+  - DNS: Bind, PowerDNS, dnsmasq, CoreDNS
+  - Load Balancing: HAProxy, nginx, Traefik
+  - CDN: Cloudflare, Fastly, AWS CloudFront
+  - Zero-trust architecture, mTLS, service mesh
+
++ WEB & APPLICATION SERVERS
+  - HTTP: nginx, Apache, Caddy, LiteSpeed, lighttpd
+  - Application: Node.js, Rails, Django, FastAPI
+  - Message Queues: RabbitMQ, Kafka, Redis Pub/Sub, NATS
+
++ MAIL SYSTEMS
+  - Postfix, Dovecot, Courier, Exim, Sendmail
+  - Anti-spam: SpamAssassin, rspamd
+  - DKIM, SPF, DMARC implementation
+
++ BACKUP & DISASTER RECOVERY
+  - Borg/Borgmatic, Restic, Duplicity
+  - Amanda, Bacula, BackupPC
+  - Cloud: AWS Backup, GCP snapshots
+  - Custom solutions with rclone, rsync
+
++ VIRTUALIZATION
+  - QEMU/KVM, Xen, VMware vSphere
+  - Proxmox, oVirt, OpenStack
+  - VirtualBox, Vagrant
+
+
+-------------------------------------------------------------------------------
+ADDITIONAL INFORMATION
+-------------------------------------------------------------------------------
+
+Age:         42 (born 19831204 in YYYYMMDD format for the data nerds)
+Family:      Married, 2 sons (20 & 14), 3+ cats :3
+Travel:      Available for occasional travel (~bimonthly)
+Languages:   Italian (native), English (fluent), Tech (native)
+
+
+Timezone:
+  - (live) UTC+1 (CET/CEST)
+  - (work) UTC-7 (PST/PDT)
+
+
+-------------------------------------------------------------------------------
+PERSONAL INTERESTS & HACKER MINDSET
+-------------------------------------------------------------------------------
+
++ Scout Leader & National IT Team (CNGEI)
+  - Adult trainer at national level
+  - Managing association's IT infrastructure
+
++ Hardware Hacking & DIY
+  - Arduino, Raspberry Pi, ESP8266/ESP32
+  - Custom mechanical keyboards (QMK/ZMK firmware)
+  - 3D printing (FDM/resin)
+  - Home automation (Home Assistant, Node-RED)
+  - VR development (Quest, Index)
+
++ Tech Ecosystem
+  - Active HN/YC community member
+  - Startup advisor and technical due diligence
+  - Open source contributor
+  - Technical blog writer (when time permits)
+
++ Gaming & Geek Culture
+  - Paper RPG (D&D, Pathfinder, Cyberpunk)
+  - Hardcore computer gamer
+  - Roguelike enthusiast (Dwarf Fortress, Noita, NetHack, ToME)
+  - Retro computing (Commodore, Amiga)
+
++ Early adopter credentials [4]:
+  - Android user since v1.6 (Donut)
+  - NodeJS user since v0.3.x
+  - Minecraft alpha buyer ($9.99 gang)
+  - Kubernetes since v1.2
+  - Docker since v0.9
+  - Generally "almost-everything-which-THEN-had-huge-hype" user :)
+
++ Other Random Interests
+  - Cats
+  - Motorcycles
+  - Martial arts
+  - Photography
+
+
+-------------------------------------------------------------------------------
+DOCUMENT VERSIONS & FORMATS
+-------------------------------------------------------------------------------
+
+Graphical CV (PDF): https://lele.rip/Lele_CV_Otta.pdf
+Text Version:       https://lele.rip/Lele_CV.txt
+PDF Version:        https://lele.rip/Lele_CV.pdf
+Photo:              https://lele.rip/Lele_pic.jpg
+
+CV History[2]:      https://lele.rip/Lele_CV-1.6.txt
+CV History[1]:      https://lele.rip/Lele_CV-1.5.txt
+CV History[0]:      https://lele.rip/Lele_CV-1.4.txt
+
+
+-------------------------------------------------------------------------------
+INTERNAL REFERENCES & RATING SCALE
+-------------------------------------------------------------------------------
+
+[1] Competent with almost every Linux distro, cross-platform environments 
+    including Windows AD and macOS for heterogeneous infrastructures
+
+[2] Extensive experience managing services at scale: monitoring, SQL/NoSQL 
+    databases, HTTP servers, DNS, mail, backup, VPN, version control, 
+    container orchestration, message queues, and more
+
+[3.a] Language proficiency includes both writing production code and 
+      debugging/optimizing existing systems
+
+[3.b] Rating Scale (0-10):
+  0:   No experience
+  1-3: Can read and understand, not comfortable implementing
+  4-6: Comfortable to very comfortable with routine work
+  7:   Deep expertise, can design and implement any project
+  8:   Go-to expert in any environment
+  9:   Published author or patent holder in the field
+  10:  Industry-recognized expert (Torvalds, Carmack, etc.)
+
+[4] "Early adopter" means being in production with tech before it was cool
+
+[5] Problem Solver as defined at http://solversmanifesto.com
+
+[6] Hacker as per http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)
+
+================================================================================
+                               END OF DOCUMENT
+================================================================================
+
+# vim: set ts=2 sw=2 cc=80 et nu list:
