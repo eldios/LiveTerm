@@ -1,0 +1,218 @@
+# Emanuele 'Lele' Calo
+
+**Head of Infrastructure | DevOps/SRE/Infra | Blockchain Infrastructure Expert**
+
+---
+
+## CONTACT
+
+| | |
+|---|---|
+| **Location** | Lucca, Italy (Remote) |
+| **Email** | <emanuele.lele.calo@gmail.com> |
+| **LinkedIn** | <https://linkedin.com/in/emanuelecalo> |
+| **GitHub** | <https://github.com/eldios> |
+| **Website** | <https://lele.rip/> |
+
+
+---
+
+## PROFESSIONAL SUMMARY
+
+- 20+ years building/scaling infrastructure | 10+ years DevOps/SRE/TechLead
+
+- Certified Kubernetes Administrator | Blockchain infrastructure specialist
+
+- Crypto enthusiast, founder and builder | Multiple startups founding member
+
+- Tech evangelist passionate about mentoring and knowledge sharing
+
+---
+
+## KEY ACHIEVEMENTS & NERD CREDs
+
+- Built infrastructure handling millions of blockchain transactions daily
+
+- Mentored 50+ engineers in DevOps best practices
+
+- Conference speaker on infrastructure and crypto/blockchain topics
+
+- Merged upstream contributions to PebbleOS, Kata Containers, lazygit, Vial, Teleport and more
+
+---
+
+## EXPERIENCE
+
+### HEAD OF INFRASTRUCTURE | [Linera](https://linera.io) - *Jul 2025 - Jul 2026*
+
+<https://linera.io> | New L1 Blockchain Protocol
+
+- Own end-to-end infrastructure architecture: validator/node topology for a distributed consensus network
+- Built the Kubernetes + ArgoCD GitOps platform (AWS, OpenTofu) enabling reproducible deployments across dev, testnet, and mainnet environments
+- Acting Staff Engineer: mentor Rust engineers on production infra patterns, align infrastructure, protocol, and SDK roadmaps
+
+
+### HEAD OF INFRASTRUCTURE | [Switchboard](https://switchboard.xyz) - *Mar 2024 - Jul 2025*
+
+<https://switchboard.xyz> | Decentralized Oracle Network (Solana)
+
+- Architected high-availability oracle infrastructure on confidential computing (AMD SEV-SNP, Intel SGX), securing oracle data integrity
+- Unified DevOps practices across engineering teams; ran the AWS, Kubernetes, and Terraform distributed infrastructure
+- Shipped Rust and TypeScript automation for oracle operations
+
+
+### LEAD SRE | [Tint](https://tint.ai) - *Mar 2023 - Jan 2024*
+
+<https://tint.ai> | AI Platform
+
+- Owned cloud infrastructure decisions and architecture; built scalable Kubernetes infrastructure for AI workloads
+- Established the SRE function from scratch: SLI/SLOs, on-call, disaster recovery and high-availability design, mentorship program
+
+
+### SENIOR DEVOPS & SRE | [Kraken](https://kraken.com) - *Mar 2022 - Nov 2022*
+
+<https://kraken.com> | Top-5 Global Crypto Exchange
+
+- CORE reliability team member for an exchange handling billions in daily trading volume
+- Developed critical services for trading and staking systems; drove security best practices across multiple teams
+
+
+### SENIOR DEVOPS | [Ada](https://ada.cx) - *Jan 2021 - Mar 2022*
+
+<https://ada.cx> | AI Customer Service Platform
+
+- Maintained 99.9% uptime in 24/7 on-call rotation; architected MongoDB clusters and AWS infrastructure
+- Led infrastructure planning as Staff Engineer; mentored the team on Kubernetes and Terraform
+
+
+### DEVOPS & SRE | [Teleport](https://goteleport.com) - *Jul 2017 - Dec 2020*
+
+<https://goteleport.com> | Zero-Trust Access Platform (Open Source)
+
+- Built secure access infrastructure adopted by Fortune 500 companies
+- Implemented zero-trust network architectures and Kubernetes-native security; contributed upstream to the open-source project
+
+
+### HOSTING TEAM LEADER | [End Point Inc.](https://endpoint.com) - *Aug 2012 - Jun 2017*
+
+<https://endpoint.com> | E-commerce Solutions
+
+- Led a team of 10 engineers managing enterprise hosting infrastructure
+- Automated Linux systems at scale; monitoring and alerting for 100+ client systems
+
+
+### FOUNDER | [sshadm.in](https://sshadm.in) - *Apr 2012 - present*
+
+<https://sshadm.in> | Consulting & hosting side project - and the sandbox where new tech gets tested first (NixOS, Hetzner, Cloudflare, borgbackup)
+
+
+
+*Earlier positions (2004-2012): see [LinkedIn](https://www.linkedin.com/in/emanuelecalo/) for the full history*
+
+---
+
+## OPEN SOURCE
+
+Most of my work is infra and lives in private repos - these are the public bits and contributions. More at [github.com/eldios](https://github.com/eldios?tab=repositories)
+
+### Personal Open Projects
+
+- **dotfiles** - <https://github.com/eldios/dotfiles>
+  Fully reproducible NixOS/nixPkgs system & home configuration - actively maintained daily driver
+
+
+- **TimelyNG** - <https://github.com/eldios/TimelyNG>
+  Modernized the classic Timely watchface for the new Core Devices Pebble SDK: complications, adaptive layout, Nix dev shell
+
+
+- **nomad-on-docker** - <https://github.com/eldios/nomad-on-docker>
+  Local HashiCorp Nomad cluster in Docker - covered in the first video on my YouTube channel [LeleOnTech](https://www.youtube.com/@LeleOnTech)
+
+
+### Upstream Contributions
+
+- **PebbleOS (Core Devices)** - <https://github.com/coredevices/PebbleOS>
+  OS-level PIN lockscreen with a new Security settings section for the revived Pebble smartwatch OS (on hold)
+
+
+- **Home Assistant ecosystem (ha-petkit)** - <https://github.com/aavdberg/ha-petkit>
+  Fixed the BLE config-flow so already-bound Petkit devices re-pair instead of dead-ending
+
+
+- **docker-external-dns** - <https://github.com/timk153/docker-external-dns>
+  Wildcard support for A, CNAME and MX records in label-driven Cloudflare DNS for Docker Compose (in progress)
+
+
+- **lazygit** - <https://github.com/jesseduffield/lazygit>
+  Two merged bugfixes in the most popular git TUI, including stderr redirection handling (Go)
+
+
+- **Vial (QMK-based keyboard firmware)** - <https://github.com/vial-kb/vial-qmk>
+  Added Vial support for the Gizmo GK6 (OLKB) keyboard - C firmware merged upstream, now shipped in every Vial build
+
+
+- **Kata Containers** - <https://github.com/kata-containers/kata-containers>
+  Upstream PR born from production TEE work - Confidential Computing (Intel SGX / AMD SEV-SNP) container runtimes on Kubernetes (on hold)
+
+
+- **Teleport** - <https://github.com/gravitational/teleport>
+  Several merged PRs (packaging fixes, cert-auth backport) - contributed while working there
+
+
+---
+
+## TECHNICAL SKILLS
+
+- **Certifications**: CKA - Certified Kubernetes Administrator (<https://lele.rip/cka_2018.png>)
+
+- **Orchestration**: Kubernetes (k3s/k8s/EKS/GKE), Docker, Helm, Kustomize
+
+- **GitOps & IaC**: ArgoCD, OpenTofu/Terraform, Ansible, Crossplane, Packer
+
+- **Cloud**: AWS (EKS, EC2, S3, Lambda, RDS), GCP (GKE, Cloud Run), bare metal (Hetzner, OVH, Latitude)
+
+- **Languages**: Bash/Shell, Go, Rust, Python, TypeScript, Ruby, Perl, Solidity
+
+- **Blockchain**: Solana (validator ops, on-chain programs), Ethereum (node ops, smart contracts), Bitcoin/Lightning, oracle networks, MEV
+
+- **Confidential Computing**: AMD SEV-SNP, Intel SGX, Kata Containers on Kubernetes
+
+- **Observability**: Prometheus/Grafana, OpenTelemetry, Datadog, ELK/OpenSearch, SLI/SLO design
+
+- **Databases**: PostgreSQL, MySQL, MongoDB (sharding), Redis (cluster/sentinel), TimescaleDB
+
+- **Network & Security**: WireGuard, zero-trust/mTLS, HAProxy, nginx, Traefik, Cloudflare, CoreDNS, Vault/OpenBao, SELinux
+
+- **OS**: NixOS (primary, everywhere it makes sense), Arch (ex-AUR maintainer of ~20 pkgs), Debian/Ubuntu, RHEL/CentOS
+
+---
+
+## BEYOND THE TERMINAL
+
+- **Timezone**: UTC+1 (CET/CEST) | works US hours (ET → PST)
+
+- **Hardware & DIY**: custom mechanical keyboards (QMK/ZMK), 3D printing, ESP32/Arduino, Home Assistant - homelabbing & self-hosting since early 2000s
+
+- **Early adopter**: Docker v0.9, Kubernetes v1.2, NodeJS v0.3.x, Android v1.6, Minecraft alpha ($9.99 gang)
+
+- **Gaming & geekery**: roguelikes (Dwarf Fortress, Noita, NetHack), tabletop RPGs (D&D, Pathfinder, Cyberpunk), retro computing
+
+- **Volunteering**: Scout leader & national IT team (CNGEI) - adult trainer, association infra
+
+- **Sports**: Acrobatic gymnastics, climbing, bouldering
+
+- **Family**: married, 2 sons, 3+ cats :3
+
+- **Languages**: Italian (native), English (fluent)
+
+---
+
+## DOCUMENT FORMATS AND EXTERNAL RESOURCES
+
+- **Markdown Version**: https://lele.rip/Lele_CV.md
+
+- **Text Version**: https://lele.rip/Lele_CV.txt
+
+- **PDF Version**: https://lele.rip/Lele_CV.pdf
+
+- **Photo**: https://lele.rip/Lele_pic.jpg
