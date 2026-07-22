@@ -117,12 +117,16 @@ Most of my work is infra and lives in private repos - these are the public bits 
 
 ### Personal Open Projects
 
+- **clawd-bot** - <https://github.com/eldios/clawd-bot>
+  Standalone Claude Code usage monitor for M5Stack devices: ESPHome package with per-board layouts, OTA updates, polls Anthropic directly with no host software
+
+
 - **dotfiles** - <https://github.com/eldios/dotfiles>
   Fully reproducible NixOS/nixPkgs system & home configuration - actively maintained daily driver
 
 
 - **TimelyNG** - <https://github.com/eldios/TimelyNG>
-  Modernized the classic Timely watchface for the new Core Devices Pebble SDK: complications, adaptive layout, Nix dev shell
+  Modernized the classic Timely watchface for the new Core Devices Pebble SDK: complications, adaptive layout, WYSIWYG settings, coloured weather icons, Nix dev shell
 
 
 - **nomad-on-docker** - <https://github.com/eldios/nomad-on-docker>
@@ -132,7 +136,7 @@ Most of my work is infra and lives in private repos - these are the public bits 
 ### Upstream Contributions
 
 - **PebbleOS (Core Devices)** - <https://github.com/coredevices/PebbleOS>
-  OS-level PIN lockscreen with a new Security settings section for the revived Pebble smartwatch OS (on hold)
+  OS-level PIN lockscreen with a new Security settings section for the revived Pebble smartwatch OS (PR on hold)
 
 
 - **Home Assistant ecosystem (ha-petkit)** - <https://github.com/aavdberg/ha-petkit>
@@ -140,7 +144,7 @@ Most of my work is infra and lives in private repos - these are the public bits 
 
 
 - **docker-external-dns** - <https://github.com/timk153/docker-external-dns>
-  Wildcard support for A, CNAME and MX records in label-driven Cloudflare DNS for Docker Compose (in progress)
+  Wildcard support for A, CNAME and MX records in label-driven Cloudflare DNS for Docker Compose - merged upstream
 
 
 - **lazygit** - <https://github.com/jesseduffield/lazygit>
@@ -157,6 +161,10 @@ Most of my work is infra and lives in private repos - these are the public bits 
 
 - **Teleport** - <https://github.com/gravitational/teleport>
   Several merged PRs (packaging fixes, cert-auth backport) - contributed while working there
+
+
+- **qbz** - <https://github.com/vicrodh/qbz>
+  Nix build fix (libjack2) for the hi-fi Qobuz desktop player for Linux and macOS
 
 
 ---
