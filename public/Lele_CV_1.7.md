@@ -117,7 +117,7 @@ Most of my work is infra and lives in private repos - these are the public bits 
 
 ### Personal Open Projects
 
-- **clawd-bot** - <https://github.com/eldios/clawd-bot>
+- **tokentide** - <https://github.com/eldios/tokentide>
   Standalone Claude Code usage monitor for M5Stack devices: ESPHome package with per-board layouts, OTA updates, polls Anthropic directly with no host software
 
 
