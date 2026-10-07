@@ -1,6 +1,6 @@
 # Emanuele 'Lele' Calo
 
-**Head of Infrastructure | DevOps/SRE/Infra | Blockchain Infrastructure Expert**
+**Head of Infrastructure | DevOps/SRE/Plartform Eng | AI & Blockchain/crypto Infra**
 
 ---
 
@@ -42,6 +42,15 @@
 ---
 
 ## EXPERIENCE
+
+### HEAD OF INFRASTRUCTURE | [Oh](https://oh.xyz) - *Oct 2026 - present*
+
+<https://oh.xyz> | Adult content API startup
+
+- Own end-to-end infrastructure architecture: AI inference, training and running models on Kubernetes on bare metal and own the rest of the web platform on AWS
+- Build the Kubernetes + ArgoCD GitOps platform (AWS, OpenTofu) enabling reproducible deployments across development workflow
+- Acting Staff Engineer: mentor engineers on production infra patterns, improve/consolidate/nurture infrastructure and empower devs to deploy as frictionless as possible
+
 
 ### HEAD OF INFRASTRUCTURE | [Linera](https://linera.io) - *Jul 2025 - Jul 2026*
 

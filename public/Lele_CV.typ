@@ -71,7 +71,7 @@
   [
     #text(size: 24pt, weight: "bold")[Emanuele 'Lele' Calo]
 
-    #text(size: 1.02em, weight: "semibold")[Head of Infrastructure | DevOps\/SRE\/Infra | Blockchain Infrastructure Expert]
+    #text(size: 1.02em, weight: "semibold")[Head of Infrastructure | DevOps\/SRE\/Plartform Eng | AI & Blockchain\/crypto Infra]
 
     #text(size: 0.95em, weight: "medium")[
 me\@lele.rip    #h(0.9em) #link("https://linkedin.com/in/emanuelecalo")[#text(weight: "bold")[LinkedIn]]
@@ -109,6 +109,18 @@ me\@lele.rip    #h(0.9em) #link("https://linkedin.com/in/emanuelecalo")[#text(we
 
 #pills-mode.update(false)
 #block(sticky: true, above: 1.6em)[#text(size: 1.4em, weight: "bold")[EXPERIENCE]]
+
+#block(above: 1.3em, breakable: false)[
+#grid(columns: (1fr, auto), column-gutter: 1em,
+  text(weight: "bold", size: 1.02em)[Head of Infrastructure, #link("https://oh.xyz")[Oh]],
+  align(right + top, text(fill: muted, size: 0.88em)[Oct 2026 - present]),
+)
+#text(fill: muted, size: 0.92em)[#link("https://oh.xyz")[https:\/\/oh.xyz] | Adult content API startup]
+
+- Own end-to-end infrastructure architecture: AI inference, training and running models on Kubernetes on bare metal and own the rest of the web platform on AWS
+- Build the Kubernetes + ArgoCD GitOps platform (AWS, OpenTofu) enabling reproducible deployments across development workflow
+- Acting Staff Engineer: mentor engineers on production infra patterns, improve\/consolidate\/nurture infrastructure and empower devs to deploy as frictionless as possible
+]
 
 #block(above: 1.3em, breakable: false)[
 #grid(columns: (1fr, auto), column-gutter: 1em,
